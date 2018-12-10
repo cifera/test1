@@ -13,4 +13,3 @@ def foo():
             return True
 ```
 
-this is new and highly experimental feature
